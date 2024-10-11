@@ -1,0 +1,6 @@
+{
+    "places": ["abandoned house", "dark forest", "old graveyard", "creepy castle"],
+    "creatures": ["ghost", "vampire", "werewolf", "skeleton", "witch"],
+    "actions": ["hunted", "searched for", "ran away from", "tried to catch", "hid from"],
+    "subjects": ["strange amulet", "spellbook", "ancient artifact", "bloody dagger"]
+}
