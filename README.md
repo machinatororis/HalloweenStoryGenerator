@@ -11,3 +11,5 @@ This is a simple but fun Python project that generates random scary stories usin
 ## Example Output:
 The generator produces a story like this:
 One night, in the dark forest, a ghost hunted a strange amulet.
+
+[![Watch the full project creation here](https://img.youtube.com/vi/RIJ7PHVeAvU/0.jpg)](https://youtu.be/RIJ7PHVeAvU)
